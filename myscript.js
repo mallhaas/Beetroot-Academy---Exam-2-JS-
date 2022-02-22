@@ -203,7 +203,7 @@ function initMap() {
       ]
     });
     const image = {
-        url: "https://github.com/mallhaas/test-1727/blob/main/map-dot-100.png?raw=true",
+        url: "https://github.com/mallhaas/Beetroot-Academy---Exam-2-JS-/blob/main/images/map-dot-100.png?raw=true",
       };
     
     // The marker, positioned at Uluru
